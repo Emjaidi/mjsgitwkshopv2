@@ -1,6 +1,6 @@
 # mjsgitwkshopv2
 
-##Download the repo
+## Download the repo
 ### Steps for running the slides:
 #### Download the repository
 ```
